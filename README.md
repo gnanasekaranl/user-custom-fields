@@ -1,2 +1,2 @@
-# user-custom-fields
-add user custom meta fields when registration or edit profile for WordPress website
+# user custom fields
+Add user custom meta fields for WP user when registration or edit profile.
